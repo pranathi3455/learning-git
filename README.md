@@ -1,4 +1,4 @@
 # learning-git
 This is to learn git
-/n
+<br>
 Author - Pranathi
